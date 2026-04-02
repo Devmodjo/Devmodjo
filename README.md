@@ -22,7 +22,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Modjo-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://www.linkedin.com/in/victor-modjo)
 &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Bientôt-555555?style=for-the-badge&logo=youtube&logoColor=888888&labelColor=0d1117)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-ModjoVictor-555555?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://youtube.com/@ModjoVictor)
 
 <br/>
 
