@@ -80,6 +80,7 @@ Les contrats comptent.      →  Une API est un engagement — je le traite avec
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://linux.org)
 
 </div>
 
