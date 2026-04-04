@@ -52,7 +52,7 @@ Mon cœur de métier : l'écosystème **Java / Spring Boot**, avec des approches
 
 <div align="center">
 
-### `MA FAÇON DE TRAVAILLER`
+### `MA FAÇON DE TRAVAILLER `
 
 </div>
 
