@@ -6,16 +6,18 @@
 
 <div align="center">
 
-<!-- ░░░ HEADER WAVE — sans texte intégré ░░░ -->
+<!-- ░░░ HEADER WAVE — sans texte ░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" width="100%"/>
 
 <br/>
 
-<!-- ░░░ NOM — animation typing temps réel ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=120&pause=99999999&color=00FF41&center=true&vCenter=true&repeat=false&width=800&height=75&lines=VICTOR+MODJO" alt="Victor Modjo"/>
+<!-- ░░░ NOM — frappe temps réel, reste affiché ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=100&pause=99999999&color=00FF41&center=true&vCenter=true&repeat=false&width=800&height=80&lines=VICTOR+MODJO" alt="Victor Modjo"/>
 
-<!-- ░░░ RÔLES — animation cycling ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=1200&color=7FFFB4&center=true&vCenter=true&width=720&lines=⚙+Ingénieur+Backend+%7C+Architecte+Logiciel;🏗+Architecture+Hexagonale+%7C+DDD+%7C+Microservices;🧱+Monolithe+Modulaire+%7C+Systèmes+Scalables;🚀+Fondateur+de+MV+Tech+—+Cameroun" alt="Roles"/>
+<br/>
+
+<!-- ░░░ RÔLES EN ANGLAIS — texte pur, pas d'image ░░░ -->
+**`Backend Engineer`** &nbsp;·&nbsp; **`Systems Architect`** &nbsp;·&nbsp; **`Java / Spring Boot Specialist`** &nbsp;·&nbsp; **`Founder @ MV Tech`**
 
 <br/><br/>
 
@@ -88,7 +90,13 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,react,docker,git,linux,maven&theme=dark)](https://skillicons.dev)
+<!-- Ligne 1 : 5 icônes -->
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb&theme=dark&perline=5" height="70"/>
+
+<br/><br/>
+
+<!-- Ligne 2 : 5 icônes -->
+<img src="https://skillicons.dev/icons?i=react,docker,git,linux,maven&theme=dark&perline=5" height="70"/>
 
 </div>
 
@@ -100,19 +108,17 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-<a href="https://github.com/Devmodjo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devmodjo&show_icons=true&bg_color=0d1117&border_color=00FF4140&title_color=00FF41&icon_color=FFD700&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800"/>
-</a>
-&nbsp;
-<a href="https://github.com/Devmodjo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmodjo&layout=compact&bg_color=0d1117&border_color=00FF4140&title_color=00FF41&text_color=c9d1d9&langs_count=6&hide_border=false&cache_seconds=1800"/>
-</a>
+<!-- Streak stats — service fiable, pas de carte stat externe -->
+<img src="https://streak-stats.demolab.com?user=Devmodjo&theme=dark&background=0d1117&border=00FF4140&stroke=00FF41&ring=FFD700&fire=FF4500&currStreakLabel=00FF41&sideLabels=7FFFB4&dates=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF" width="96%"/>
 
 <br/><br/>
 
-<a href="https://github.com/Devmodjo">
-  <img width="96%" src="https://streak-stats.demolab.com?user=Devmodjo&theme=dark&background=0d1117&border=00FF4140&stroke=00FF41&ring=FFD700&fire=FF0000&currStreakLabel=00FF41&sideLabels=7FFFB4&dates=c9d1d9"/>
-</a>
+<!-- Snake contribution — GIF généré par GitHub Actions, toujours visible -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devmodjo/Devmodjo/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devmodjo/Devmodjo/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Devmodjo/Devmodjo/output/github-contribution-grid-snake-dark.svg" width="96%"/>
+</picture>
 
 </div>
 
