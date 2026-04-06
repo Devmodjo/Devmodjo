@@ -90,13 +90,7 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-<!-- Ligne 1 : 5 icônes -->
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb&theme=dark&perline=5" height="70"/>
-
-<br/><br/>
-
-<!-- Ligne 2 : 5 icônes -->
-<img src="https://skillicons.dev/icons?i=react,docker,git,linux,maven&theme=dark&perline=5" height="70"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,react,docker,git,linux,maven&theme=dark&perline=5" height="60"/>
 
 </div>
 
@@ -108,17 +102,7 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-<!-- Streak stats — service fiable, pas de carte stat externe -->
 <img src="https://streak-stats.demolab.com?user=Devmodjo&theme=dark&background=0d1117&border=00FF4140&stroke=00FF41&ring=FFD700&fire=FF4500&currStreakLabel=00FF41&sideLabels=7FFFB4&dates=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF" width="96%"/>
-
-<br/><br/>
-
-<!-- Snake contribution — GIF généré par GitHub Actions, toujours visible -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devmodjo/Devmodjo/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devmodjo/Devmodjo/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Devmodjo/Devmodjo/output/github-contribution-grid-snake-dark.svg" width="96%"/>
-</picture>
 
 </div>
 
