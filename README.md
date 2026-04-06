@@ -90,7 +90,7 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,react,docker,git,linux,maven&theme=dark&perline=5" height="60"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,react,docker,git,linux,maven&theme=dark&perline=5" height="90"/>
 
 </div>
 
