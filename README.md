@@ -6,46 +6,39 @@
 
 <div align="center">
 
-<!-- ░░ HEADER WAVE ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=VICTOR%20MODJO&fontSize=52&fontColor=00FF41&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Systems%20Architect&descAlignY=58&descSize=16&descColor=7FFFB4&animation=fadeIn&fontAlign=50" width="100%"/>
-
-</div>
+<!-- ░░░ HEADER WAVE — sans texte intégré ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" width="100%"/>
 
 <br/>
 
-<!-- ░░ ANIMATED ROLE LINE ░░ -->
-<div align="center">
+<!-- ░░░ NOM — animation typing temps réel ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=120&pause=99999999&color=00FF41&center=true&vCenter=true&repeat=false&width=800&height=75&lines=VICTOR+MODJO" alt="Victor Modjo"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&width=720&lines=⚙+Conception+de+systèmes+Java+%2F+Spring+Boot;🏗+Architecture+Hexagonale+%7C+DDD+%7C+CQRS;🔩+Monolithe+Modulaire+%7C+Microservices;🚀+Fondateur+de+MV+Tech+—+Yaoundé%2C+Cameroun)](https://git.io/typing-svg)
+<!-- ░░░ RÔLES — animation cycling ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=1200&color=7FFFB4&center=true&vCenter=true&width=720&lines=⚙+Ingénieur+Backend+%7C+Architecte+Logiciel;🏗+Architecture+Hexagonale+%7C+DDD+%7C+Microservices;🧱+Monolithe+Modulaire+%7C+Systèmes+Scalables;🚀+Fondateur+de+MV+Tech+—+Cameroun" alt="Roles"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
----
-
-<!-- ░░ LIENS HERO — MULTICOLORE ░░ -->
-<div align="center">
-
+<!-- ░░░ LIENS HERO ░░░ -->
 <a href="https://modjovictor.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-modjovictor.vercel.app-00FF41?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-modjovictor.vercel.app-00FF41?style=for-the-badge&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://mv-tech.vercel.app">
-  <img src="https://img.shields.io/badge/🏢_Agence-MV_Tech-FFD700?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🏢_Agence-MV_Tech-FFD700?style=for-the-badge&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/victor-modjo">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Victor_Modjo-0A66C2?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Victor_Modjo-0A66C2?style=for-the-badge&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://youtube.com/@ModjoVictor">
-  <img src="https://img.shields.io/badge/▶_YouTube-@ModjoVictor-FF0000?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/▶_YouTube-@ModjoVictor-FF0000?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
 </div>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -65,12 +58,12 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-| Pattern | Usage |
-|---|---|
+| Pattern | Description |
+|:---:|:---|
 | 🧱 **Monolithe Modulaire** | Base solide pour les produits en croissance — découplage interne sans complexité opérationnelle |
 | 🔩 **Microservices** | Scalabilité indépendante, déploiements isolés, résilience par domaine |
 | 🔷 **Architecture Hexagonale** | Isolation du domaine métier, testabilité maximale, ports & adapters |
-| ⚡ **DDD / CQRS** | Modélisation orientée métier, séparation lecture/écriture, cohérence forte |
+| 📐 **DDD** | Modélisation orientée métier, langage ubiquitaire, cohérence forte du domaine |
 
 </div>
 
@@ -81,10 +74,10 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 ## `⬡` MA FAÇON DE TRAVAILLER
 
 ```
-  L'architecture d'abord    →  Un système bien conçu est plus simple à faire évoluer
+  L'architecture d'abord     →  Un système bien conçu est plus simple à faire évoluer
   L'explicite avant l'astuce →  Du code qui communique clairement dure plus longtemps
-  Les contrats comptent      →  Une API est un engagement — je le traite avec rigueur
-  Observabilité toujours     →  On ne peut pas opérer ce qu'on ne peut pas mesurer
+  Les contrats comptent       →  Une API est un engagement — je le traite avec rigueur
+  Observabilité toujours      →  On ne peut pas opérer ce qu'on ne peut pas mesurer
 ```
 
 <br/>
@@ -95,13 +88,7 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-**— Backend & Data —**
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,hibernate,maven,redis&theme=dark)](https://skillicons.dev)
-
-**— Frontend & Outillage —**
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,docker,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,react,docker,git,linux,maven&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -113,13 +100,19 @@ Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autou
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devmodjo&show_icons=true&bg_color=0d1117&border_color=00FF4140&title_color=00FF41&icon_color=FFD700&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" />
+<a href="https://github.com/Devmodjo">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devmodjo&show_icons=true&bg_color=0d1117&border_color=00FF4140&title_color=00FF41&icon_color=FFD700&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800"/>
+</a>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmodjo&layout=compact&bg_color=0d1117&border_color=00FF4140&title_color=00FF41&text_color=c9d1d9&langs_count=5&hide_border=false" />
+<a href="https://github.com/Devmodjo">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmodjo&layout=compact&bg_color=0d1117&border_color=00FF4140&title_color=00FF41&text_color=c9d1d9&langs_count=6&hide_border=false&cache_seconds=1800"/>
+</a>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devmodjo&bg_color=0d1117&color=00FF41&line=FFD700&point=00FF41&area=true&area_color=003f1f&hide_border=true" />
+<a href="https://github.com/Devmodjo">
+  <img width="96%" src="https://streak-stats.demolab.com?user=Devmodjo&theme=dark&background=0d1117&border=00FF4140&stroke=00FF41&ring=FFD700&fire=FF0000&currStreakLabel=00FF41&sideLabels=7FFFB4&dates=c9d1d9"/>
+</a>
 
 </div>
 
