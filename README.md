@@ -50,7 +50,7 @@ Je conçois des **systèmes backend robustes et durables** — APIs fiables, arc
 
 Mon cœur de métier est l'écosystème **Java / Spring Boot**, structuré autour de patterns d'architecture éprouvés qui gardent la complexité sous contrôle à mesure que les projets grandissent.
 
-> 💡 Ingénieur indépendant et fondateur de **[MV Tech](https://mv-tech.vercel.app)** — un studio orienté conception de produits numériques bien architecturés.
+> 💡 Ingénieur indépendant et fondateur de **[MV-TECH](https://mv-tech.vercel.app)** — un studio orienté conception de produits numériques bien architecturés.
 
 <br/>
 
