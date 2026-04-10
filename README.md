@@ -10,7 +10,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" width="100%"/>
 
 <br/>
-
+ 
 <!-- ░░░ NOM — frappe temps réel, reste affiché ░░░ -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=100&pause=99999999&color=00FF41&center=true&vCenter=true&repeat=false&width=800&height=80&lines=VICTOR+MODJO" alt="Victor Modjo"/>
 
