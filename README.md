@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<!-- HEADER VERT TRÈS VISIBLE & STYLÉ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00FF41,00FF7A,00E65C,00CC4D&height=200&section=header&text=VICTOR%20MODJO&font=Outfit&fontSize=58&fontColor=0d1117" width="100%"/>
+<!-- HEADER VERT TRÈS VIF & LUMINEUX -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00FF41,00FF55,00FF6A,00E64D&height=220&section=header&text=VICTOR%20MODJO&font=Outfit&fontSize=62&fontColor=0d1117" width="100%"/>
 
 <br><br>
 
-<h2 style="font-family: 'Outfit', system-ui; margin: 0; font-size: 2rem;">Backend Engineer &amp; Systems Architect</h2>
+<h2 style="font-family: 'Outfit', system-ui; margin: 0; font-size: 2.1rem;">Backend Engineer &amp; Systems Architect</h2>
 
 **Java • Spring Boot • Architectures Durables**
 
@@ -59,7 +59,7 @@ Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je
 ### Stack Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,redis,docker,git,linux,react&theme=dark&perline=3" height="145"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,redis,docker,git,linux,react&theme=dark&perline=2" height="195"/>
 </div>
 
 ---
