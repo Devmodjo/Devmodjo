@@ -4,11 +4,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=120&section=header&text=VICTOR%20MODJO&font=Inter&fontSize=42&fontColor=ffffff" width="100%"/>
+<!-- HEADER VAGUE VERTE DÉGRADÉ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF41,00CC33,009933&height=160&section=header&text=VICTOR%20MODJO&font=Outfit&fontSize=48&fontColor=ffffff" width="100%"/>
 
-<br>
+<br><br>
 
-<h2>Backend Engineer & Systems Architect</h2>
+<h2 style="font-family: 'Outfit', system-ui;">Backend Engineer &amp; Systems Architect</h2>
 
 **Java • Spring Boot • Architectures Durables**
 
@@ -36,29 +37,29 @@
 
 ### À propos
 
-Je conçois des **systèmes backend robustes, scalables et maintenables** qui grandissent avec le produit plutôt que de s’effondrer.
+Je conçois des **produits numériques robustes** avec des systèmes backend scalables, maintenables et pensés pour durer.
 
-Spécialiste **Java & Spring Boot**, je privilégie une architecture propre et intentionnelle : code explicite, dette technique minimale et domaine métier au centre.
+Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je construis des architectures claires qui évoluent avec le produit sans accumuler de dette technique.
 
-Fondateur de **[MV Tech](https://mv-tech.vercel.app)** — studio spécialisé dans la conception de produits numériques bien architecturés.
+**Fondateur de [MV Tech](https://mv-tech.vercel.app)** — studio spécialisé dans la création de produits bien architecturés.
 
 ---
 
 ### Philosophie d’architecture
 
-- **Hexagonal / Ports & Adapters** → Isolation du domaine
-- **DDD** → Modélisation riche et langage ubiquitaire
-- **Monolithe modulaire** → Quand la simplicité opérationnelle prime
-- **Microservices** → Uniquement quand l’indépendance de déploiement justifie la complexité
+- **Hexagonal (Ports & Adapters)** → Découplage fort et testabilité maximale  
+- **Domain-Driven Design** → Modélisation riche et langage métier partagé  
+- **Monolithe modulaire** → Simplicité opérationnelle tout en restant évolutif  
+- **Microservices** → Uniquement quand l’indépendance réelle est justifiée  
 
-> **Je construis d’abord l’architecture, ensuite le code.**
+> **L’architecture d’abord. Le code ensuite.**
 
 ---
 
 ### Stack Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,redis,docker,kubernetes,git,linux,maven,gradle,react&theme=dark&perline=6" height="65"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,redis,docker,git,linux,githubactions,react&theme=dark&perline=6" height="78"/>
 </div>
 
 ---
@@ -73,21 +74,21 @@ Fondateur de **[MV Tech](https://mv-tech.vercel.app)** — studio spécialisé d
 
 ### Discutons
 
-Tu as un projet ambitieux, une refactorisation critique ou une opportunité senior ?
+Tu as un projet ambitieux, une mission freelance ou une opportunité senior ?  
 
-N’hésite pas à me contacter :
+Je suis ouvert aux collaborations qui ont du sens.
 
 <div align="center">
   <a href="https://modjovictor.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="42"/>
   </a>
   &nbsp;
   <a href="https://mv-tech.vercel.app">
-    <img src="https://img.shields.io/badge/MV_Tech-FFD700?style=for-the-badge&logo=vercel&logoColor=black" height="38"/>
+    <img src="https://img.shields.io/badge/MV_Tech-FFD700?style=for-the-badge&logo=vercel&logoColor=black" height="42"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/victor-modjo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
   </a>
 </div>
 
@@ -96,3 +97,5 @@ N’hésite pas à me contacter :
 *« Une bonne architecture ne prédit pas l’avenir — elle le rend possible. »*
 
 **Victor Modjo** — Cameroun 🇨🇲
+
+</div>
