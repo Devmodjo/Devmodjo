@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- HEADER VERT TRÈS VIF -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Victor%20Modjo&fontColor=0FFF0F&textBg=false&reversal=false&animation=scaleIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=404&color=gradient&text=Victor%20Modjo&textBg=false&reversal=false&animation=scaleIn" width="100%"/>
 
 <br><br>
 
