@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<!-- HEADER VAGUE VERTE DÉGRADÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF41,00CC33,009933&height=160&section=header&text=VICTOR%20MODJO&font=Outfit&fontSize=48&fontColor=ffffff" width="100%"/>
+<!-- NOUVELLE BANDE HEADER PLUS STYLÉE -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00FF41,00CC33,009933,006622&height=180&section=header&text=VICTOR%20MODJO&font=Outfit&fontSize=52&fontColor=ffffff" width="100%"/>
 
 <br><br>
 
-<h2 style="font-family: 'Outfit', system-ui;">Backend Engineer &amp; Systems Architect</h2>
+<h2 style="font-family: 'Outfit', system-ui; margin: 0;">Backend Engineer &amp; Systems Architect</h2>
 
 **Java • Spring Boot • Architectures Durables**
 
@@ -59,7 +59,7 @@ Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je
 ### Stack Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,redis,docker,git,linux,githubactions,react&theme=dark&perline=6" height="78"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,redis,docker,git,linux,react&theme=dark&perline=5" height="92"/>
 </div>
 
 ---
