@@ -11,7 +11,7 @@
 
 <h2 style="font-family: 'Outfit', system-ui; margin: 0; font-size: 2rem;">Backend Engineer &amp; Systems Architect</h2>
 
-**Java • Spring Boot • Architectures Durables**
+**Java • Spring Boot • Architectures Durables** 
 
 <br>
 
