@@ -41,7 +41,7 @@ Je conçois des **produits numériques robustes** avec des systèmes backend sca
 
 Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je construis des architectures claires qui évoluent avec le produit sans accumuler de dette technique.
 
-**Fondateur de [MV Tech](https://mv-tech.vercel.app)** — studio spécialisé dans la création de produits bien architecturés.
+**Fondateur de [MV Tech](https://mv-tech.vercel.app)** — studio spécialisé dans la création de produits bien architecturés et de formation professionnelle.
 
 ---
 
