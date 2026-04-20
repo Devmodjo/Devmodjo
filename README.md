@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Victor%20Modjo&textBg=false&reversal=false&animation=scaleIn" width="100%"/>
 
 <br><br> 
-    
+  
 <h2 style="font-family: 'Outfit', system-ui; margin: 0; font-size: 2rem;">Backend Engineer &amp; Systems Architect</h2>
 
 **Java • Spring Boot • Architectures Durables** 
