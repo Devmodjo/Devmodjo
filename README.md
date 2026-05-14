@@ -58,7 +58,7 @@ Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je
 ### Stack Technique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,redis,docker,git,linux,react&theme=dark&perline=12" height="85"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,linux,angular&theme=dark&perline=12" height="85"/>
 </div>
 
 ---
