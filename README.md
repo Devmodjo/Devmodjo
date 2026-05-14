@@ -73,7 +73,7 @@ Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je
 
 ### Discutons
 
-Tu as un projet ambitieux, une mission freelance ou une opportunité senior ?  
+Tu as un projet ambitieux, une mission freelance ou une opportunité ?  
 
 Je suis ouvert aux collaborations qui ont du sens.
 
