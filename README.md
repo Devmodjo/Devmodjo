@@ -63,14 +63,6 @@ Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je
 
 ---
 
-### Activité GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Devmodjo&theme=dark&background=0d1117&border=21262D&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub Streak"/>
-</div>
-
----
-
 ### Discutons
 
 Tu as un projet ambitieux, une mission freelance ou une opportunité ?  
