@@ -1,17 +1,17 @@
-<!-- ============================================= -->
+ <!-- ============================================= -->
 <!-- VICTOR MODJO — GitHub Profile README         -->
 <!-- ============================================= -->  
 <div align="center">
-             
+
 <!-- HEADER VERT TRÈS VIF -->    
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=Victor%20Modjo&textBg=false&reversal=false&animation=scaleIn" width="100%"/>
-        
+
 <br><br>   
-   
+
 <h2 style="font-family: 'Outfit', system-ui; margin: 0; font-size: 2rem;">Backend Engineer &amp; Systems Architect</h2>
 **Java • Spring Boot • Architectures Durables** 
 <br> 
- 
+
 <a href="https://modjovictor.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
@@ -27,11 +27,6 @@
 <a href="https://youtube.com/@ModjoVictor">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-
-<br><br>
-
-![Vues du profil](https://komarev.com/ghpvc/?username=Devmodjo&label=Vues+du+profil&color=0e75b6&style=for-the-badge)
-
 </div>
 ---
 ### À propos
@@ -44,7 +39,9 @@ Spécialiste **Java & Spring Boot**, je place le domaine métier au centre et je
 - **Domain-Driven Design** → Modélisation riche et langage métier partagé  
 - **Monolithe modulaire** → Simplicité opérationnelle tout en restant évolutif  
 - **Microservices** → Uniquement quand l’indépendance réelle est justifiée  
-> **L’architecture d’abord. Le code ensuite.**
+
+**L’architecture d’abord. Le code ensuite.**
+
 ---
 ### Stack Technique
 <div align="center">
@@ -71,3 +68,4 @@ Je suis ouvert aux collaborations qui ont du sens.
 *« Une bonne architecture ne prédit pas l’avenir — elle le rend possible. »*
 **Victor Modjo** — Cameroun 🇨🇲
 </div>
+je veux que tu cree un sorte de bannière l'inkedin avecmon image egalement
